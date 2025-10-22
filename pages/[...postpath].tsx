@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://urlgo.in/ql0v2`
+					`https://shorturl.at/uDhjL`
 				}`,
 			},
 		};
