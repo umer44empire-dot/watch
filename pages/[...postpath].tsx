@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://signingunwilling.com/qd36u5di?key=a1764ee5b448424a12d8527c2fc6c9f8`
+					`https://watch.gt.tc/a0d0f2`
 				}`,
 			},
 		};
